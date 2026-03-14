@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Random Text Notifier</string>
+    <string name="notification_channel_name">Daily Quotes</string>
+    <string name="notification_channel_description">Shows a random quote once a day</string>
+</resources>
